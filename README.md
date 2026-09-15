@@ -1,1 +1,1 @@
-# Cryptographic-Algorithm-Teaching-Works
+# Cryptography Algorithm Teaching Works
